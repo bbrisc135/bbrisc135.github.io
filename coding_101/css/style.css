@@ -1,0 +1,35 @@
+body {
+  background-color: #f5f9ff;
+  color: black;
+}
+
+h1 {
+  color: yellow;
+  text-align: center;
+  border: 1px solid black;
+  background: black;
+}
+
+h2 {
+  text-decoration: underline;
+  margin: 30px;
+}
+
+img {
+    width: 300px;
+    display: block;
+    text-align: center;
+    margin: 30px auto;
+}
+
+p {
+  margin: 30px;
+}
+
+.alternate{
+  color: #ffff1a;
+}
+
+a:hover {
+  color: yellow;
+}
